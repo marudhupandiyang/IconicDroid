@@ -1,3 +1,13 @@
+## Forked REPO from atermenji/IconicDroid.
+
+## Updated to FontAwesome 4.3.0 icons
+
+Font Awesome Icons names will vary from the original repo. If you plan to use this, please change the names.
+You can find the names to similar in the site `http://fortawesome.github.io/Font-Awesome/icons/`
+
+The rest of the Readme is from the original Repo.
+
+
 ## IconicDroid [![Build Status](https://travis-ci.org/atermenji/IconicDroid.png)](https://travis-ci.org/atermenji/IconicDroid) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-IconicDroid-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1150)
 
 IconicDroid is a custom [Android Drawable](http://developer.android.com/reference/android/graphics/drawable/Drawable.html) which allows to draw icons from several iconic fonts.
